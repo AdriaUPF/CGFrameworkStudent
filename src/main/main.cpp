@@ -18,5 +18,6 @@ int main(int argc, char **argv)
 		SDL_DestroyWindow(window);
 	}
 
+
 	return 0;
 }
